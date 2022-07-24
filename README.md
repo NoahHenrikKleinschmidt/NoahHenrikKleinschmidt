@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoahHenrikKleinschmidt
 - 👀 I’m interested in biochemistry and molecular biology :dna:
 - 🌱 I’m currently learning bioinformatics
-- 💞️ I’m looking to collaborate on useful lab tools for quick n' easy data analysis for biochemical wet-labs
+- 💞️ I’m looking to collaborate on useful bioinformatic applications and data visualisation tools
 - 📫 How to reach me: best via e-mail
 
 <!---
